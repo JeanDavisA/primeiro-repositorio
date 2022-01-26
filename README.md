@@ -1,8 +1,8 @@
-# Primeiro Repositorio
-Meu primeiro repositório
+# Primeiro Repositório
+Meu primeiro repositório:
 
-- Primeiros Passos
-- Passos de Introdução
+- Introdução Git Github
+  - Passos de introdução
 
 ## Links Úteis
-[Referencias do Git](https://git-scm.com/docs)
+[Referências do Git](https://git-scm.com/docs)
