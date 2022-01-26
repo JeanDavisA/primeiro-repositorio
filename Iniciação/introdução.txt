@@ -1,0 +1,14 @@
+Linha de Comandos
+
+$ ls - listar
+$ ls -a - lista de arquivos ocultos
+$ cd - trocar de pasta, trocar de pasta
+$ cd . - voltar a um nível no diretório.
+$ mkdir - cria uma pasta
+$ echo - efeito mudança no arquivo ou nome/texto
+$ git iniciará uma configuração vazia .git ou durante a configuração inicial de um novo - definida.
+$ git add * ou . - adiciona uma alteração no diretório ativo à área de preparação. Ele diz ao Git que você quer incluir um arquivo específico no próximo commit.
+$ git config - usado para definir valores de configuração do Git em projetos de nível global ou local. Modificar arquivos de texto de configuração.
+$ commit - execução nom, escrever uma alteração de alteração que explique a alteração no domínio.
+$ git push - conteúdo é alterado para uso remoto enviar.
+git pull - é usado para buscar e executar os seguintes procedimentos imediatos e fazer uma atualização ao lado das opções locais para que os conteúdos sejam iguais.
